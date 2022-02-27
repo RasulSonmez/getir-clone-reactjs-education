@@ -1,6 +1,6 @@
 ## LİVE WEBSİTE
 
-[WEBSİTE](https://reactjs-getir-clone-education.netlify.app/).
+[WEBSİTE](https://reactjs-getir-clone-education.netlify.app/)
 
 # Getting Started with Create React App
 
